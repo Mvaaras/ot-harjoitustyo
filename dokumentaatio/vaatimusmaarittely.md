@@ -1,6 +1,6 @@
 # Vaatimusmäärittely
 
-##Sovelluksen tarkoitus
+## Sovelluksen tarkoitus
 
 * Peliprojekti - "seikkailupeli", pelattava viihdyttävä ohjelma
 * Inspiraationa Monkey Island :')
