@@ -4,6 +4,6 @@
 
 **Tämä on myöhemmin tehtävässä pyydetty muokkaus**
 
-[Dokumentaatio]:https://github.com/Mvaaras/ot-harjoitustyo/tree/main/dokumentaatio/vaatimusmaarittely.md
+[Dokumentaatio]:(https://github.com/Mvaaras/ot-harjoitustyo/tree/main/dokumentaatio/vaatimusmaarittely.md)
 
-[Työaikakirjanppito]:https://github.com/Mvaaras/ot-harjoitustyo/tree/main/dokumentaatio/tyoaikakirjanpito.md
+[Työaikakirjanppito]:(https://github.com/Mvaaras/ot-harjoitustyo/tree/main/dokumentaatio/tyoaikakirjanpito.md)
